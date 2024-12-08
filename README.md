@@ -1,2 +1,2 @@
-# Check Raman spectral calibration
+# Check reference samples
 
